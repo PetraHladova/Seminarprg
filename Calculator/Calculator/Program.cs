@@ -15,33 +15,58 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pokud chcete mocnit, první číslo mocníte druhým." + "\n ");
-
             while (true)
             {
-                Console.WriteLine("Zadejte první číslo");
-                double number1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("Zadejte druhé číslo");
-                double number2 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("Napište jakou číselnou operaci chcete provést ve formě soucet, rozdil...");
+                Console.WriteLine("Napište jakou číselnou operaci chcete provést pomocí +,-,*,/,mocnina,odmocnina nebo abs (absolutní hodnota).");
                 string operation = Convert.ToString(Console.ReadLine());
+                double number1;
+                double number2;
+                while (true)
+                {
+                    Console.WriteLine("Zadejte číslo");
+                    string firstNumber = Console.ReadLine();
+                    if (double.TryParse(firstNumber, out _))
+                    {
+                        number1 = Convert.ToDouble(firstNumber);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Tohle je kalkulačka, ne deníček. Zadej číslo! >:(");
+                    }
+                }
+                while (true)
+                {
+                    Console.WriteLine("Zadejte číslo");
+                    string secondNumber = Console.ReadLine();
+                    if (double.TryParse(secondNumber, out _))
+                    {
+                        number2 = Convert.ToDouble(secondNumber);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Tohle je kalkulačka, ne deníček. Zadej číslo! >:(");
+                    }
+                }
                 double result = 0;
-                if (operation == "soucet")
+                double result2 = 0;
+                if (operation == "+")
                 {
                     result = number1 + number2;
                     Console.WriteLine("Výsledek se rovná " + result);
                 }
-                else if (operation == "rozdil")
+                else if (operation == "-")
                 {
                     result = number1 - number2;
                     Console.WriteLine("Výsledek se rovná " + result);
                 }
-                else if (operation == "soucin")
+                else if (operation == "*")
                 {
                     result = number1 * number2;
                     Console.WriteLine("Výsledek se rovná " + result);
                 }
-                else if (operation == "podil")
+                else if (operation == "/")
                 {
                     if (number2 == 0)
                     {
@@ -55,6 +80,7 @@ namespace Calculator
                 }
                 else if (operation == "mocnina")
                 {
+                    Console.WriteLine("První číslo mocníte druhým");
                     if (number2 > 1)
                     {
                         double karel = number1;
@@ -80,19 +106,32 @@ namespace Calculator
                     {
                         double jan = number1;
                         double lukas = 0;
-                         while (number2 < -1)
+                        while (number2 < -1)
                         {
                             lukas = jan * number1;
-                            number2--;
+                            number2++;
                             jan = lukas;
                         }
                         result = 1 / lukas;
                         Console.WriteLine("Výsledek se rovná 1/" + lukas + ", což se zaokrouhlí na " + result);
                     }
                 }
+                else if (operation == "odmocnina")
+                {
+                    result = Math.Sqrt(number1);
+                    result2 = Math.Sqrt(number2);
+
+                    Console.WriteLine("Odmocnina prvního čísla se rovná " + result + ", odmocnina druhého " + result2);
+                }
+                else if (operation == "abs")
+                {
+                    result = Math.Abs(number1);
+                    result2 = Math.Abs(number2);
+                    Console.WriteLine("Absolutní hodnota prvního čísla se rovná " + result + ", absolutní hodnota druhého " + result2);
+                }
                 else
                 {
-                    Console.WriteLine("Nebyla zadaná operace :(");
+                    Console.WriteLine("Nerozumím jazyku tvého kmene! Říkala jsem číselnou operaci! >:(");
                 }
 
                 Console.WriteLine(" ");

@@ -5,3 +5,10 @@ H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csp
 H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.exe
 H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.pdb
