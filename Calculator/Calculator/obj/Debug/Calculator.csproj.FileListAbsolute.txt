@@ -1,0 +1,7 @@
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\3D\Hladovap\Seminar\Seminarprg\Calculator\Calculator\obj\Debug\Calculator.pdb
