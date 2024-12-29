@@ -1,0 +1,14 @@
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\bin\Debug\net6.0\battleships.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\bin\Debug\net6.0\battleships.deps.json
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\bin\Debug\net6.0\battleships.runtimeconfig.json
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\bin\Debug\net6.0\battleships.dll
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\bin\Debug\net6.0\battleships.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.AssemblyInfoInputs.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.AssemblyInfo.cs
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.csproj.CoreCompileInputs.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.dll
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\refint\battleships.dll
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\battleships.genruntimeconfig.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\battleships\obj\Debug\net6.0\ref\battleships.dll
