@@ -1,0 +1,7 @@
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\bin\Debug\BlockBlast.exe.config
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\bin\Debug\BlockBlast.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\bin\Debug\BlockBlast.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\obj\Debug\BlockBlast.csproj.AssemblyReference.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\obj\Debug\BlockBlast.csproj.CoreCompileInputs.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\obj\Debug\BlockBlast.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\BlockBlast\obj\Debug\BlockBlast.pdb
