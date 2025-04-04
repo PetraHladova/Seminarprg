@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,8 @@ namespace malovani
 {
     public partial class Form1 : Form
     {
+        Graphics g;
+        
         public Form1()
         {
             InitializeComponent();
@@ -86,6 +89,25 @@ namespace malovani
         {
             Pen pen = Pens.MidnightBlue;
             Brush brush = Brushes.MidnightBlue;
+        }
+
+        private void Clear(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Draw(object sender, MouseEventArgs e)
+        {
+            Point lastPosition;
+            bool isDrawing = true;
+            lastPosition = e.Location;
+        }
+
+        private void drawmouse(object sender, MouseEventArgs e)
+        {
+            Point lastPosition;
+            lastPosition = e.Location;
+            g.DrawLine(Pens.Black, e.Location, lastPosition);
         }
     }
 }
