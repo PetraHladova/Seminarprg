@@ -1,0 +1,20 @@
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\bin\Debug\malovani.exe.config
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\bin\Debug\malovani.exe
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\bin\Debug\malovani.pdb
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.AssemblyReference.cache
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.Form1.resources
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.Properties.Resources.resources
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.GenerateResource.cache
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.CoreCompileInputs.cache
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.exe
+H:\3D\Hladovap\Seminar\Seminarprg\malovani\malovani\obj\Debug\malovani.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\bin\Debug\malovani.exe.config
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\bin\Debug\malovani.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\bin\Debug\malovani.pdb
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.AssemblyReference.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.Form1.resources
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.Properties.Resources.resources
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.GenerateResource.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.csproj.CoreCompileInputs.cache
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.exe
+C:\Users\hlado\OneDrive\Plocha\Nová složka\Seminarprg\malovani\malovani\obj\Debug\malovani.pdb
